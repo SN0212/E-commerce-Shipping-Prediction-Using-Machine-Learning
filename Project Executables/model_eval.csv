@@ -1,0 +1,8 @@
+,Name,Accuracy,F1_score,Recall,Precision
+0,logistic regression,64.05,69.64,69.56,69.72
+1,logistic regression CV,63.77,70.27,72.24,68.41
+2,XGBoost,64.64,70.42,71.01,69.83
+3,ridge classifier,65.23,68.76,64.57,73.54
+4,knn,63.41,68.71,67.79,69.66
+5,random forest,65.23,68.76,64.57,73.54
+6,support vector classifier,66.36,66.24,55.67,81.76
